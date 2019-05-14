@@ -2,7 +2,7 @@
 
 >**This repository is not affiliated with Nintendo.**
 
-Flatten icons representing 4 game modes in the ranked and league battle of Splatoon2
+Flat icons representing 4 game modes in the ranked and league battle of Splatoon2
 
 ![Preview](preview.png)
 
